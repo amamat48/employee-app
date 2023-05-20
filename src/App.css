@@ -1,0 +1,71 @@
+
+.App {
+  display: flex;
+  margin-left: 10%;
+  width: 75%;
+  height: 10%;
+}
+
+.home {
+  width: 50%;
+  border: 2px solid black;
+}
+
+img {
+  position: relative;
+  top: 1em;
+  width: 4em;
+  border-radius: 50px;
+
+}
+
+.employeePageContainer {
+  border: 2px solid black;
+  width: 50%;
+
+
+}
+
+.employeeItemContainer {
+  border: 2px solid black;
+  height: 6em;
+}
+
+.singleEmployeeContainer {
+  border: 2px solid black;
+  height: 75%;
+}
+
+.employeeText {
+  position: relative;
+  left: 25%;
+  bottom: 3em;
+}
+
+.employeeTitle {
+  position: relative;
+  left: 25%;
+  bottom: 4em;
+}
+
+
+.contactInfo {
+  border: 2px solid black;
+}
+
+.singleEmployee {
+  border: 2px solid black;
+  height: 20%;
+}
+
+.employeeName {
+  position: relative;
+  left: 25%;
+  bottom: 1em;
+}
+
+.singleEmployeeTitle {
+  position: relative;
+  left: 25%;
+}
+
